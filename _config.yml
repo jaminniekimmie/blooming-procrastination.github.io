@@ -10,7 +10,7 @@ description: A small programming journal
 baseurl: "/home" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
-url: ""
+url: "http://jaminniekimmie.github.io"
 # When developing, set this ^ equal to whatever localhost you're using
 
 # Social Media links
