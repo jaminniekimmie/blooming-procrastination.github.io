@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Hellow World this is a New Me"
+title:  "Hello World this is a New Me"
 date:   2018-09-01 11:41:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: person1.jpeg
-categories: category1
+categories: C++
 
 # Information for the author block
 author: Jamie Minyoung Kim
