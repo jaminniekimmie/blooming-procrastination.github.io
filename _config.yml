@@ -7,7 +7,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 title: Blooming Procrastination
 email: mycielo91@gmail.com
 description: A small programming journal
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
 url: ""
