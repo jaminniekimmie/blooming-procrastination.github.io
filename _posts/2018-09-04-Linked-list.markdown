@@ -4,7 +4,7 @@ title:  "Linked List"
 date:   2018-09-04 09:19:21
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: person1.jpeg
-categories: C++
+categories: ++
 
 # Information for the author block
 author: Jamie Minyoung Kim
