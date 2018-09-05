@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Hello World this is a New Me"
+title:  "재"
 date:   2018-09-05 10:59:23
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: person1.jpeg
-categories: C++
+categories: c++
 
 # Information for the author block
 author: Jamie Minyoung Kim
